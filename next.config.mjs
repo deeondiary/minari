@@ -9,6 +9,7 @@ const nextConfig = {
             },
         ],
     },
+    assetPrefix: '.',
     output: "standalone",
 };
 
